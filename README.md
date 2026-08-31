@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Moiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%2B%20AI%2FML%20Security&descAlignY=55&descSize=18" width="100%"/>
@@ -10,6 +9,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/BS%20Cybersecurity-Student-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
+
 
 <br/>
 
@@ -87,6 +87,37 @@ I'm an undergraduate **Cybersecurity** student, building toward research and car
 ### 📂 Featured Projects
 
 <details>
+<summary><b>🧰 Cybersecurity Toolkit (Python CLI Security Tools)</b></summary>
+<br/>
+
+A growing collection of small, standalone command-line cybersecurity tools, each in its own folder, built to learn core security concepts hands-on.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python (standard library + `dnspython`, `psutil`) |
+| Tools | TCP port scanner, DNS record lookup utility, Caesar cipher encrypt/decrypt/brute-force tool, process-based keylogger detector |
+| Design | Each tool is fully standalone — own README, own `requirements.txt`, no shared dependencies |
+| Focus | Socket programming, DNS internals, classical cryptography, heuristic threat detection |
+| Learning Outcome | Practical, tool-by-tool foundation across networking, crypto, and defensive security — structured to keep expanding with more advanced tools over time |
+
+</details>
+
+<details>
+<summary><b>🎣 ML-Based Phishing URL Detector</b></summary>
+<br/>
+
+A machine learning classifier that flags likely phishing URLs using lexical and structural features extracted from the URL itself (no live page content needed).
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, scikit-learn, Pandas, NumPy |
+| Scope | 15 lexical/structural URL features (length, special characters, subdomain count, HTTPS usage, suspicious keywords, IP-as-host, shortener detection), Random Forest / Logistic Regression training with accuracy/precision/recall/F1 evaluation |
+| Focus | Applying classical ML to a real security detection problem, entirely offline (no live page requests) |
+| Learning Outcome | First hands-on bridge between the Cybersecurity and AI Security tracks — a foundation for later adversarial-ML and model-security work |
+
+</details>
+
+<details>
 <summary><b>🌐 Multi-Site Enterprise Network (eNSP / Huawei VRP)</b></summary>
 <br/>
 
@@ -133,22 +164,7 @@ A foundational C++ command-line calculator built while working through core prog
 
 </details>
 
-
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python |
-| Scope | Speech recognition, command handling, extensible skill design |
-| Status | In planning/early build stage, following beginner-friendly tutorials |
-| Learning Outcome | Practical Python beyond coursework; audio I/O and basic NLP concepts |
-
-</details>
-
----
-
 ### 🎓 Academic & Research Experience
-
-**Undergraduate Research Outreach**
 **Networking & Systems Coursework**
 
 Hands-on coursework spanning networking, systems design, and applied programming.
@@ -199,8 +215,6 @@ Hands-on coursework spanning networking, systems design, and applied programming
 ![NVIDIA DLI](https://img.shields.io/badge/DLI%20Course-NVIDIA-6D28D9?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenLearn](https://img.shields.io/badge/Information%20Security-OpenLearn-6D28D9?style=flat-square)
 
----
-
 
 ### 🔭 Current Focus
 
@@ -235,3 +249,5 @@ open_to:
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moiz-here)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](#) -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
+
+</div>
