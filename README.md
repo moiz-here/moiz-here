@@ -241,7 +241,7 @@ building:
 exploring:
   - CompTIA Security+ and CEH as next certification targets
   - TryHackMe / Hack The Box practice rooms
-  - International undergraduate research opportunities in cybersecurity
+  
 
 open_to:
   - Research collaboration
