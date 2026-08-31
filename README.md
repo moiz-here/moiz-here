@@ -37,7 +37,6 @@ I'm an undergraduate **Cybersecurity** student, building toward research and car
 - 🔐 Focused on network security fundamentals — routing, OSPF, and enterprise topologies on **Huawei VRP CLI** (AR routers, S3700 switches)
 - 🤖 Studying ML fundamentals (NumPy, Pandas, scikit-learn) with an eye toward AI Security applications
 - 🐧 Learning **Kali Linux** and offensive-security basics
-- 📡 Actively reaching out to international research groups for undergraduate research opportunities in cybersecurity
 - 🧠 Long-term goal: work internationally in cybersecurity, combining hands-on security engineering with AI/ML-driven defense
 
 **Open To:** undergraduate research collaborations · cybersecurity internships · AI Security study groups · networking/security mentorship
