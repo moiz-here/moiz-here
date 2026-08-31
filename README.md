@@ -148,21 +148,6 @@ A console-based management system refactored into an object-oriented architectur
 
 </details>
 
-<details>
-<summary><b>🧮 C++ Calculator</b></summary>
-<br/>
-
-A foundational C++ command-line calculator built while working through core programming coursework.
-
-| Aspect | Detail |
-|---|---|
-| Stack | C++ |
-| Scope | Arithmetic operations, input validation, control flow |
-| Focus | Core language fundamentals |
-| Learning Outcome | Groundwork for later, more structured C++ projects |
-
-</details>
-
 ### 🎓 Academic & Research Experience
 **Networking & Systems Coursework**
 
