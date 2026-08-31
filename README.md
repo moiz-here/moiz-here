@@ -133,11 +133,7 @@ A foundational C++ command-line calculator built while working through core prog
 
 </details>
 
-<details>
-<summary><b>🎙️ Python Voice Assistant (in progress)</b></summary>
-<br/>
 
-A self-directed Python project to build a voice assistant from the ground up.
 
 | Aspect | Detail |
 |---|---|
