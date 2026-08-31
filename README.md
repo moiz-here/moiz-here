@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Moiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%2B%20AI%2FML%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=BS+Cybersecurity+Student; Building+toward+Cybersecurity+%2B+AI+Security+research;Networking+%7C+Python+%7C+Machine+Learning;Currently+learning+offensive+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=BS+Cybersecurity+Student;Building+toward+Cybersecurity+%2B+AI+Security+research;Networking+%7C+Python+%7C+Machine+Learning;Currently+learning+offensive+security" alt="Typing SVG" />
 </a>
 
 <br/>
