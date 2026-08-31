@@ -1,104 +1,265 @@
+
 <div align="center">
-Muhammad Moiz
 
-BS Cybersecurity Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Moiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%2B%20AI%2FML%20Security&descAlignY=55&descSize=18" width="100%"/>
 
-Building toward a research career at the intersection of Cybersecurity and Machine Learning / AI Security
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=BS+Cybersecurity+Student+%40+UET+Taxila;Building+toward+Cybersecurity+%2B+AI+Security+research;Networking+%7C+Python+%7C+Machine+Learning;Currently+learning+offensive+security" alt="Typing SVG" />
+</a>
 
-Email GitHub
+<br/>
+
+![Academic](https://img.shields.io/badge/BS%20Cybersecurity-UET%20Taxila-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
+![Expected](https://img.shields.io/badge/Expected%20Graduation-2029-4C1D95?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-5B21B6?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmoizgujjar22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moiz-here)
+<!-- add LinkedIn / portfolio badges here once those links exist, e.g.:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+-->
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=moiz-here&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/moiz-here?color=8b5cf6&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/moiz-here?color=8b5cf6&style=flat-square&label=Stars)
 
 </div>
-About
 
-I'm an undergraduate Cybersecurity student , building toward research and career opportunities at the intersection of network/systems security and applied machine learning (AI Security).
+---
 
-Focused on network security fundamentals — routing, OSPF, and enterprise topologies on Huawei VRP CLI (AR routers, S3700 switches)
-Studying ML fundamentals (NumPy, Pandas, scikit-learn) with a focus on AI Security applications
-Learning Kali Linux and offensive-security basics
-Actively reaching out to international research groups for undergraduate research opportunities in cybersecurity
+### 🎯 About
 
-Open to: undergraduate research collaborations · cybersecurity internships · AI Security study groups
+I'm an undergraduate **Cybersecurity** student , building toward research and career opportunities at the intersection of **network/systems security** and **applied machine learning (AI Security)**.
 
-Tech Stack
+- 🔐 Focused on network security fundamentals — routing, OSPF, and enterprise topologies on **Huawei VRP CLI** (AR routers, S3700 switches)
+- 🤖 Studying ML fundamentals (NumPy, Pandas, scikit-learn) with an eye toward AI Security applications
+- 🐧 Learning **Kali Linux** and offensive-security basics
+- 📡 Actively reaching out to international research groups for undergraduate research opportunities in cybersecurity
+- 🧠 Long-term goal: work internationally in cybersecurity, combining hands-on security engineering with AI/ML-driven defense
 
-Languages
+**Open To:** undergraduate research collaborations · cybersecurity internships · AI Security study groups · networking/security mentorship
 
-Show Image Show Image Show Image Show Image
+---
 
-Data & Machine Learning
+### 🛠️ Tech Stack
 
-Show Image Show Image Show Image
+**Languages**
 
-Networking & Security
+![C++](https://img.shields.io/badge/-C++-1F1147?style=flat-square&logo=c%2B%2B&logoColor=A78BFA)
+![C](https://img.shields.io/badge/-C-1F1147?style=flat-square&logo=c&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/-Python-1F1147?style=flat-square&logo=python&logoColor=A78BFA)
+![Bash](https://img.shields.io/badge/-Bash-1F1147?style=flat-square&logo=gnu-bash&logoColor=A78BFA)
 
-Show Image Show Image
+**Data & Machine Learning**
 
-Tools
+![NumPy](https://img.shields.io/badge/-NumPy-1F1147?style=flat-square&logo=numpy&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/-Pandas-1F1147?style=flat-square&logo=pandas&logoColor=A78BFA)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-1F1147?style=flat-square&logo=scikit-learn&logoColor=A78BFA)
 
-Show Image Show Image
+**Networking & Security**
 
-Featured Projects
-<details> <summary><b>Multi-Site Enterprise Network (eNSP / Huawei VRP)</b></summary> <br/>
+![Huawei VRP](https://img.shields.io/badge/-Huawei%20VRP-1F1147?style=flat-square&logo=huawei&logoColor=A78BFA)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-1F1147?style=flat-square&logo=kalilinux&logoColor=A78BFA)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1F1147?style=flat-square&logo=wireshark&logoColor=A78BFA)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-1F1147?style=flat-square&logo=git&logoColor=A78BFA)
+![GitHub](https://img.shields.io/badge/-GitHub-1F1147?style=flat-square&logo=github&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1F1147?style=flat-square&logo=visualstudiocode&logoColor=A78BFA)
+
+---
+
+### 🤖 AI / ML Learning Focus
+
+| Domain | Status | Details |
+|---|---|---|
+| ML Fundamentals | 🟣 Learning | NumPy, Pandas, scikit-learn — core data handling and classical ML models |
+| AI Security | 🟣 Learning | Working through AttackIQ Academy's *Foundations of AI Security*; exploring adversarial ML and model-security concepts |
+| Applied AI Agents | 🟢 Completed intro | Built a data-analyst AI agent as part of coursework/self-study |
+| Security Automation | 🟣 Learning | Exploring AI-assisted approaches to blue-team workflows (Security Blue Team BTJA pathway) |
+
+---
+
+### 📂 Featured Projects
+
+<details>
+<summary><b>🌐 Multi-Site Enterprise Network (eNSP / Huawei VRP)</b></summary>
+<br/>
 
 Designed and configured a simulated multi-site enterprise network (HQ, Branch 1, Branch 2) to practice enterprise routing and network design.
 
-Aspect	Detail
-Stack	Huawei eNSP, VRP CLI, AR-series routers, S3700 switches
-Scope	Single-area OSPF, multi-site routing, route summarization
-Focus	Routing efficiency, topology design, convergence behavior
-</details> <details> <summary><b>Internet Cafe Management System (C++)</b></summary> <br/>
+| Aspect | Detail |
+|---|---|
+| Stack | Huawei eNSP, VRP CLI, AR-series routers, S3700 switches |
+| Scope | Single-area OSPF, multi-site routing, route summarization |
+| Focus | Routing efficiency, topology design, convergence behavior |
+| Learning Outcome | Hands-on enterprise routing/switching fundamentals used as a foundation for network security work |
+
+A self-directed lab project built to reinforce networking theory with practical, router-level configuration experience ahead of pursuing network security specializations.
+
+</details>
+
+<details>
+<summary><b>🏪 Internet Cafe Management System (C++)</b></summary>
+<br/>
 
 A console-based management system refactored into an object-oriented architecture as part of a university lab report.
 
-Aspect	Detail
-Stack	C++, OOP design principles
-Scope	Refactor from procedural to class-based architecture
-Focus	Encapsulation, class design, maintainable structure
-</details> <details> <summary><b>C++ Calculator</b></summary> <br/>
+| Aspect | Detail |
+|---|---|
+| Stack | C++, OOP design principles |
+| Scope | Refactor from procedural to class-based architecture |
+| Focus | Encapsulation, class design, maintainable structure |
+| Learning Outcome | Practical application of OOP concepts beyond textbook exercises |
+
+</details>
+
+<details>
+<summary><b>🧮 C++ Calculator</b></summary>
+<br/>
 
 A foundational C++ command-line calculator built while working through core programming coursework.
 
-Aspect	Detail
-Stack	C++
-Scope	Arithmetic operations, input validation, control flow
-</details> <details> <summary><b>Python Voice Assistant (in progress)</b></summary> <br/>
+| Aspect | Detail |
+|---|---|
+| Stack | C++ |
+| Scope | Arithmetic operations, input validation, control flow |
+| Focus | Core language fundamentals |
+| Learning Outcome | Groundwork for later, more structured C++ projects |
+
+</details>
+
+<details>
+<summary><b>🎙️ Python Voice Assistant (in progress)</b></summary>
+<br/>
 
 A self-directed Python project to build a voice assistant from the ground up.
 
-Aspect	Detail
-Stack	Python
-Scope	Speech recognition, command handling, extensible skill design
-Status	Early build stage
+| Aspect | Detail |
+|---|---|
+| Stack | Python |
+| Scope | Speech recognition, command handling, extensible skill design |
+| Status | In planning/early build stage, following beginner-friendly tutorials |
+| Learning Outcome | Practical Python beyond coursework; audio I/O and basic NLP concepts |
+
 </details>
-Academic & Research Experience
 
-Undergraduate Research Outreach — Self-directed, ongoing
+---
 
-Running a structured outreach campaign to international professors and research groups, aiming to secure undergraduate research collaboration in cybersecurity and AI Security. Tracking outreach, responses, and follow-ups systematically.
+### 🎓 Academic & Research Experience
 
-Networking & Systems Coursework — UET Taxila
+**Undergraduate Research Outreach**
+*Self-directed · Ongoing*
 
-Completed enterprise routing/switching labs on Huawei VRP CLI (OSPF, route summarization, multi-site topologies)
-Completed OOP and Python Essentials lab assignments
-Certifications
+ aiming to secure undergraduate research collaboration in cybersecurity and AI Security.
 
-Huawei
 
-Show Image Show Image
+**Networking & Systems Coursework**
 
-Cisco
+Hands-on coursework spanning networking, systems design, and applied programming.
 
-Show Image Show Image
+- Completed enterprise routing/switching labs on Huawei VRP CLI (OSPF, route summarization, multi-site topologies)
+- Completed OOP and Python Essentials lab assignments
+- Participated in a Microsoft Photoshop/NAVTTC practical exam track
 
-Other
+`Networking` `OOP` `Python` `Lab Documentation`
 
-Show Image Show Image Show Image
+---
 
-GitHub Stats
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=moiz-here&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-here&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=moiz-here&theme=darkhub&margin-w=8&margin-h=8&row=1&column=6" /> </div>
-Connect
+### 🏆 Achievements
+
 <div align="center">
 
-Email GitHub
+| Recognition | Details |
+|---|---|
+| Junior Cyber Defender | Government-affiliated certification (PKCERT) |
+| Huawei HCIA-Datacom V1.0 | Enterprise networking certification |
+| Huawei HCIA-openEuler V1.0 | Linux/OS-focused certification |
+| Deloitte Cyber Job Simulation | Completed via Forage |
+| Microsoft Agents League Hackathon | Registered participant |
+| EC-Council CCT Scholarship | Applicant |
+
+</div>
+
+---
+
+### 📜 Certifications
+
+**Huawei**
+
+![HCIA-Datacom](https://img.shields.io/badge/HCIA--Datacom%20V1.0-Huawei-A855F7?style=flat-square&logo=huawei&logoColor=white)
+![HCIA-openEuler](https://img.shields.io/badge/HCIA--openEuler%20V1.0-Huawei-A855F7?style=flat-square&logo=huawei&logoColor=white)
+
+**Cisco**
+
+![C++ Essentials](https://img.shields.io/badge/C++%20Essentials%201-Cisco-7C3AED?style=flat-square&logo=cisco&logoColor=white)
+![Intro to Cybersecurity](https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cisco-7C3AED?style=flat-square&logo=cisco&logoColor=white)
+![PE1 Python](https://img.shields.io/badge/PE1%20Python%20Modules-Cisco-7C3AED?style=flat-square&logo=cisco&logoColor=white)
+
+**Other Providers**
+
+![PKCERT](https://img.shields.io/badge/Junior%20Cyber%20Defender-PKCERT-6D28D9?style=flat-square)
+![IBM SkillsBuild](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM%20SkillsBuild-6D28D9?style=flat-square&logo=ibm&logoColor=white)
+![EC-Council](https://img.shields.io/badge/SQL%20Injection%20Attacks-EC--Council%20(CodeRed)-6D28D9?style=flat-square)
+![NVIDIA DLI](https://img.shields.io/badge/DLI%20Course-NVIDIA-6D28D9?style=flat-square&logo=nvidia&logoColor=white)
+![OpenLearn](https://img.shields.io/badge/Information%20Security-OpenLearn-6D28D9?style=flat-square)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=moiz-here&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-here&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=moiz-here&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+### 🔭 Current Focus
+
+```yaml
+learning:
+  - Machine Learning fundamentals (NumPy, Pandas, scikit-learn)
+  - AI Security (AttackIQ Academy, adversarial ML concepts)
+  - Kali Linux & offensive security basics
+  - Security Blue Team BTJA pathway
+
+building:
+  - Python voice assistant (from scratch)
+  - Enterprise routing labs on Huawei VRP (OSPF, route summarization)
+
+exploring:
+  - CompTIA Security+ and CEH as next certification targets
+  - TryHackMe / Hack The Box practice rooms
+  - International undergraduate research opportunities in cybersecurity
+
+open_to:
+  - Research collaboration
+  - Cybersecurity internships
+  - Study groups in AI Security
+```
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmoizgujjar22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moiz-here)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](#) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
 
 </div>
