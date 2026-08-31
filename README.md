@@ -10,7 +10,6 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/BS%20Cybersecurity-Student-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
-![Expected](https://img.shields.io/badge/Expected%20Graduation-2029-4C1D95?style=flat-square)
 
 <br/>
 
