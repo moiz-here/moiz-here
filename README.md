@@ -4,14 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Moiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%2B%20AI%2FML%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=BS+Cybersecurity+Student+%40+UET+Taxila;Building+toward+Cybersecurity+%2B+AI+Security+research;Networking+%7C+Python+%7C+Machine+Learning;Currently+learning+offensive+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=BS+Cybersecurity+Student;Building+toward+Cybersecurity+%2B+AI+Security+research;Networking+%7C+Python+%7C+Machine+Learning;Currently+learning+offensive+security" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Academic](https://img.shields.io/badge/BS%20Cybersecurity-UET%20Taxila-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
+![Academic](https://img.shields.io/badge/BS%20Cybersecurity-Student-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
 ![Expected](https://img.shields.io/badge/Expected%20Graduation-2029-4C1D95?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-5B21B6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -34,7 +33,7 @@
 
 ### 🎯 About
 
-I'm an undergraduate **Cybersecurity** student , building toward research and career opportunities at the intersection of **network/systems security** and **applied machine learning (AI Security)**.
+I'm an undergraduate **Cybersecurity** student, building toward research and career opportunities at the intersection of **network/systems security** and **applied machine learning (AI Security)**.
 
 - 🔐 Focused on network security fundamentals — routing, OSPF, and enterprise topologies on **Huawei VRP CLI** (AR routers, S3700 switches)
 - 🤖 Studying ML fundamentals (NumPy, Pandas, scikit-learn) with an eye toward AI Security applications
@@ -157,8 +156,7 @@ A self-directed Python project to build a voice assistant from the ground up.
 **Undergraduate Research Outreach**
 *Self-directed · Ongoing*
 
- aiming to secure undergraduate research collaboration in cybersecurity and AI Security.
-
+aiming to secure undergraduate research collaboration in cybersecurity and AI Security.
 
 **Networking & Systems Coursework**
 
@@ -261,5 +259,3 @@ open_to:
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moiz-here)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](#) -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
-
-</div>
