@@ -216,7 +216,6 @@ learning:
   - Security Blue Team BTJA pathway
 
 building:
-  - Python voice assistant (from scratch)
   - Enterprise routing labs on Huawei VRP (OSPF, route summarization)
 
 exploring:
