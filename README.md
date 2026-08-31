@@ -149,10 +149,6 @@ A foundational C++ command-line calculator built while working through core prog
 ### 🎓 Academic & Research Experience
 
 **Undergraduate Research Outreach**
-*Self-directed · Ongoing*
-
-aiming to secure undergraduate research collaboration in cybersecurity and AI Security.
-
 **Networking & Systems Coursework**
 
 Hands-on coursework spanning networking, systems design, and applied programming.
